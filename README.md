@@ -1,7 +1,7 @@
 # Tugas 3 - Web Client Development 
 Proyek ini mencakup pembuatan aplikasi web sederhana yang menampilkan antarmuka bertema olahraga
 
-## Contoh
+## Contoh Desain Web Workoutaja
 ![Image](https://github.com/user-attachments/assets/644cd3d9-ca77-4ec8-8ebb-2814c0aaf2f6)
 
 ### Fitur
@@ -100,6 +100,7 @@ Saat pengguna mengklik email di footer
 #### Cara Menggunakan Google Fonts dalam CSS
 1. Import Langsung di HTML
 Tambahkan tag <link> di bagian <head>:
+
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
 
 2. Gunakan dalam CSS
@@ -110,6 +111,7 @@ body {
 
 3. Menggunakan @import dalam CSS
 Alternatifnya, bisa juga dengan @import di dalam file CSS:
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 body {
   font-family: 'Open Sans', sans-serif;
