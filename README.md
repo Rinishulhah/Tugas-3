@@ -39,8 +39,8 @@ Menata elemen-elemen seperti:
 - Teks utama agar lebih menarik dan mudah dibaca.
 - Gambar dan ilustrasi untuk mendukung informasi yang diberikan.
 - Tombol WhatsApp dengan ikon dan warna yang sesuai.
-  
-  #### Cara CSS Bekerja di Proyek Ini:
+
+#### Cara CSS Bekerja di Proyek Ini:
 - File CSS terhubung melalui
    <link rel="stylesheet" href="./style.css">.
 - Font dari Google Fonts digunakan untuk memberikan tampilan teks yang lebih profesional.
